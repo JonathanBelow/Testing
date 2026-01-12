@@ -1,2 +1,3 @@
 This is a test of VS and Git.
 This is helping me learn how to commit.
+Hopefully this will be the last step.
