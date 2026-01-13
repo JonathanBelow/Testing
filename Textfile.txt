@@ -1,4 +1,8 @@
 This is a test of VS and Git.
 This is helping me learn how to commit.
 Hopefully this will be the last step.
+<<<<<<< HEAD
 I'm trying to create a conflict
+=======
+This will be a conflict!
+>>>>>>> conflict_testing
