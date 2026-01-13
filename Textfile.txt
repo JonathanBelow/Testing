@@ -1,4 +1,6 @@
 This is a test of VS and Git.
 This is helping me learn how to commit.
 Hopefully this will be the last step.
+I'm trying to create a conflict
 This will be a conflict!
+Hopefull the conflict has been resolved
